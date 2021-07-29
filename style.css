@@ -1,0 +1,50 @@
+.background-colour{
+background-color: rgb(4, 82, 82)
+
+
+
+}
+img{
+
+    width: 60%;
+}
+.happy{
+    color:rgb(226, 155, 21);
+}
+.text-color{
+color: rgb(28, 143, 236);
+}
+
+.bg-color{
+background-color: rgb(14, 4, 20);
+}
+footer{
+    padding: 60px 10px;
+}
+footer p{
+    font-size: 14px;
+    
+}
+#footer-text{
+    color: white;
+    text-align: center;
+    margin: 70px 0 -30px 0;
+    
+}
+
+footer .container a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    padding: 5px 0;
+}
+footer .fab{
+    font-size: 30px;
+    margin: 5px;
+    transition: 0.1s;
+}
+footer .fab:hover{
+    font-size: 30px;
+    margin: 5px;
+    transform: scale(1.1);
+}
